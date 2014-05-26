@@ -1,4 +1,4 @@
-DXTask
+DX-Task
 ======
 
 R and JAVA excersice from Francisco A. Gómez Vela
